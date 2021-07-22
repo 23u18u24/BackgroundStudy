@@ -1,3 +1,4 @@
+@MyAnno(className = "", methodName = "")
 public class Demo {
     public static void demo(int...arr) {
         for (int i : arr) {

@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="215a7c46-9404-4ae3-bcd8-7041f13b026e" name="Default Changelist" comment="" />
+    <list default="true" id="215a7c46-9404-4ae3-bcd8-7041f13b026e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/基础补充.md" beforeDir="false" afterPath="$PROJECT_DIR$/基础补充.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uvyABhMK0hQK0HbejWVCsjHMY4" />
   <component name="ProjectViewState">
